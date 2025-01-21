@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"5G extension"};
